@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2348105978475", // your number with country code
   OWNER_NAME: 'OSHO', // your owner name 
   BOT_NAME: "DARKWEB/NET", // your preferred bot name
-  SESSION_ID: 'kord_ai-VusIStGIgeqW', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-rePkbcIyTlkb', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "private",
   TIME_ZONE: "Africa/Lagos",
@@ -18,7 +18,7 @@ global.settings = {
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
-  AUTO_LIKE_STATUS: true,
+  AUTO_LIKE_STATUS: false,
   AUTO_LIKE_EMOJI: '🐦‍⬛',
   BANKING_DETAILS: {
     bank: "UBA", // the name of your preferred bank
