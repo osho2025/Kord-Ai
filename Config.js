@@ -4,14 +4,14 @@ global.settings = {
   OWNER_NUMBERS: "2348105978475", // your number with country code
   OWNER_NAME: 'OSHO', // your owner name 
   BOT_NAME: "DARKWEB/NET", // your preferred bot name
-  SESSION_ID: 'kord_ai-bCiHcKQJuN7e', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-VCOEF5TebFyj', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "private",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
   AUTO_READ_STATUS: true,
-  PREFIX: [","],
+  PREFIX: ["/"],
   GROUP_EVENTS: true,
   WELCOME_MESSAGE: "Hello! I'm Osho-AI, your friendly WhatsApp bot.",
   DEFAULT_TRANSLATION_LANG: "en",
