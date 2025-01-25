@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2348105978475", // your number with country code
   OWNER_NAME: 'OSHO', // your owner name 
   BOT_NAME: "DARKWEB/NET", // your preferred bot name
-  SESSION_ID: 'kord_ai-VCOEF5TebFyj', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-eszhrJoOUm0z', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "private",
   TIME_ZONE: "Africa/Lagos",
